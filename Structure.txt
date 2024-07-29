@@ -1,0 +1,22 @@
+nhancebot/
+├── backend/
+│   ├── main.py
+│   └── utils.py
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   └── logo.png
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── ChatMessage.js
+│   │   │   ├── DateSelector.js
+│   │   │   ├── QuestionInput.js
+│   │   │   ├── SampleQuestions.js
+│   │   │   └── DataSchema.js
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   └── index.js
+│   ├── package.json
+│   └── README.md
+├── requirements.txt
+└── README.md
